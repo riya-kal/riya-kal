@@ -30,7 +30,7 @@ Outside of analytics, I love journaling, trying new foods, traveling, and collec
 
 | Project | Description | Tools |
 | --- | --- | --- |
-| 📊 Project Name | Short description of the problem you solved, what you built, and the impact/results. | Python • SQL • Power BI |
+|🎵 [The Evolution of Music](https://github.com/riya-kal/spotify-music-evolution-analysis) | Analyzed **586K+ Spotify tracks** to uncover how music characteristics evolved across decades and identify differences between highly ranked and other tracks. | MySQL • SQL • Python • Pandas • Matplotlib |
 | 📈 Project Name | Short description of your analysis, dashboard, model, or automation workflow. | Python • Pandas • Visualization |
 | 🧠 Project Name | Short description of your machine learning or data exploration project. | Python • Scikit-learn |
 

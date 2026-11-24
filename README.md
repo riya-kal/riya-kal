@@ -31,7 +31,7 @@ Outside of analytics, I love journaling, trying new foods, traveling, and collec
 | Project | Description | Tools |
 | --- | --- | --- |
 |🎵 [The Evolution of Music](https://github.com/riya-kal/spotify-music-evolution-analysis) | Analyzed **586K+ Spotify tracks** to uncover how music characteristics evolved across decades and identify differences between highly ranked and other tracks. | MySQL • SQL • Python • Pandas • Matplotlib |
-| 📈 Project Name | Short description of your analysis, dashboard, model, or automation workflow. | Python • Pandas • Visualization |
+| 🧴 [The Price of Beauty: Sephora Skincare Analysis](https://github.com/riya-kal/sephora-skincare-sql-analysis) | Analyzed **2,420 Sephora skincare products** to explore the relationship between price and customer ratings, compare pricing tiers, and identify top-rated brands using SQL. | MySQL • SQL • Data Cleaning • Data Visualization |
 | 🧠 Project Name | Short description of your machine learning or data exploration project. | Python • Scikit-learn |
 
 ---
